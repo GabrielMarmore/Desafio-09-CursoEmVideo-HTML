@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: rgb(26, 25, 25);
+    color: white;
+    font-family: arial; 
+}
+
+div{
+    display: block;
+}
+
+a{
+    color: white;
+}
